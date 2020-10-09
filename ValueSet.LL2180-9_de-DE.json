@@ -17,7 +17,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "1 oder 2"
+            "value": "1-2"
           }
         ]
       }, {
@@ -26,7 +26,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "3 oder 4"
+            "value": "3-4"
           }
         ]
       }, {
@@ -35,7 +35,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "5 oder 6"
+            "value": "5-6"
           }
         ]
       }, {
@@ -44,7 +44,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "7 bis 9"
+            "value": "7-9"
           }
         ]
       }, {

@@ -26,7 +26,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "Mehrere Tage"
+            "value": "An einzelnen Tagen"
           }
         ]
       }, {
@@ -35,7 +35,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "Mehr als die Hälfte der Tage"
+            "value": "An mehr als der Hälfte der Tage"
           }
         ]
       }, {
@@ -44,7 +44,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "Fast jeden Tag"
+            "value": "Beinahe jeden Tag"
           }
         ]
       } ]

@@ -8,15 +8,6 @@
   "version": "Loinc_2.68",
   "name": "PHQ.10",
   "status": "active",
-  "publisher": "Regenstrief Institute, Inc.",
-  "contact": [ {
-    "name": "Regenstrief Institute, Inc.",
-    "telecom": [ {
-      "system": "url",
-      "value": "https://loinc.org"
-    } ]
-  } ],
-  "copyright": "This content from LOINC® is copyright © 1995 Regenstrief Institute, Inc. and the LOINC Committee, and available at no cost under the license at https://loinc.org/license/",
   "compose": {
     "include": [ {
       "system": "http://loinc.org",
@@ -44,7 +35,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "Stark erschwert"
+            "value": "Relativ stark erschwert"
           }
         ]
       }, {
@@ -53,7 +44,7 @@
         "designation": [
           {
             "language": "de-DE",
-            "value": "Extrem erschwert"
+            "value": "Sehr stark erschwert"
           }
         ]
       } ]
