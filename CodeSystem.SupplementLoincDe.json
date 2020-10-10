@@ -1,0 +1,328 @@
+{
+  "resourceType": "CodeSystem",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/shareablecodesystem"
+    ]
+  },
+  "url": "http://helict.de/CodeSystem/supplement-loinc-de",
+  "version": "0.0.1",
+  "name": "SupplementLoincDe",
+  "status": "draft",
+  "experimental": true,
+  "description": "Dieses LOINC-Supplement enthält deutsche Übersetzungen für verwendete LOINC-Codes. Es handelt sich hier um keine offiziellen, vom DIMDI freigegebenen Übersetzungen.\nDieses CodeSystem Supplement dient lediglich zu Testzwecken, zur Evaluierung von Tools oder für die Nutzung in nicht-produktiven Prototypen.  \n\nDie Bereitstellung und Erweiterung der offiziellen LOINC-Übersetzungen ist derzeit in Klärung.",
+  "content": "supplement",
+  "supplements": "http://loinc.org",
+  "concept": [
+    {
+      "code": "LA6270-8",
+      "display": "Never",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Niemals"
+        }
+      ]
+    },
+    {
+      "code": "LA18926-8",
+      "display": "Monthly or less",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "1mal im Monat oder seltener"
+        }
+      ]
+    },
+    {
+      "code": "LA18927-6",
+      "display": "2-4 times a month",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "2 bis 4mal im Monat"
+        }
+      ]
+    },
+    {
+      "code": "LA18928-4",
+      "display": "2-3 times a week",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "2 bis 3mal pro Woche"
+        }
+      ]
+    },
+    {
+      "code": "LA18929-2",
+      "display": "4 or more times a week",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "4mal oder mehrmals pro Woche"
+        }
+      ]
+    },
+    {
+      "code": "LA15694-5",
+      "display": "1 or 2",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "1-2"
+        }
+      ]
+    },
+    {
+      "code": "LA15695-2",
+      "display": "3 or 4",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "3-4"
+        }
+      ]
+    },
+    {
+      "code": "LA18930-0",
+      "display": "5 or 6",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "5-6"
+        }
+      ]
+    },
+    {
+      "code": "LA18931-8",
+      "display": "7 to 9",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "7-9"
+        }
+      ]
+    },
+    {
+      "code": "LA18932-6",
+      "display": "10 or more",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "10 oder mehr"
+        }
+      ]
+    },
+    {
+      "code": "LA6270-8",
+      "display": "Never",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Niemals"
+        }
+      ]
+    },
+    {
+      "code": "LA18933-4",
+      "display": "Less than monthly",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Seltener als 1mal im Monat"
+        }
+      ]
+    },
+    {
+      "code": "LA18876-5",
+      "display": "Monthly",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "1mal im Monat"
+        }
+      ]
+    },
+    {
+      "code": "LA18891-4",
+      "display": "Weekly",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "1mal pro Woche"
+        }
+      ]
+    },
+    {
+      "code": "LA18934-2",
+      "display": "Daily or almost daily",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Täglich oder fast täglich"
+        }
+      ]
+    },
+    {
+      "code": "LA6568-5",
+      "display": "Not at all",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Überhaupt nicht"
+        }
+      ]
+    },
+    {
+      "code": "LA6569-3",
+      "display": "Several days",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Mehrere Tage"
+        }
+      ]
+    },
+    {
+      "code": "LA18938-3",
+      "display": "More days than not",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Mehr Tage als gar nicht"
+        }
+      ]
+    },
+    {
+      "code": "LA6571-9",
+      "display": "Nearly every day",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Fast jeden Tag"
+        }
+      ]
+    },
+    {
+      "code": "LA6568-5",
+      "display": "Not at all",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Überhaupt nicht"
+        }
+      ]
+    },
+    {
+      "code": "LA6569-3",
+      "display": "Several days",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "An einzelnen Tagen"
+        }
+      ]
+    },
+    {
+      "code": "LA6570-1",
+      "display": "More than half the days",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "An mehr als der Hälfte der Tage"
+        }
+      ]
+    },
+    {
+      "code": "LA6571-9",
+      "display": "Nearly every day",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Beinahe jeden Tag"
+        }
+      ]
+    },
+    {
+      "code": "LA6572-7",
+      "display": "Not difficult at all",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Überhaupt nicht erschwert"
+        }
+      ]
+    },
+    {
+      "code": "LA6573-5",
+      "display": "Somewhat difficult",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Etwas erschwert"
+        }
+      ]
+    },
+    {
+      "code": "LA6575-0",
+      "display": "Very difficult",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Relativ stark erschwert"
+        }
+      ]
+    },
+    {
+      "code": "LA6574-3",
+      "display": "Extremely difficult",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Sehr stark erschwert"
+        }
+      ]
+    },
+    {
+      "code": "LA10997-7",
+      "display": "Never or 1 day",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "Nie oder 1 Tag"
+        }
+      ]
+    },
+    {
+      "code": "LA10998-5",
+      "display": "2-6 days (several days)",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "2-6 Tagen (mehrere Tage)"
+        }
+      ]
+    },
+    {
+      "code": "LA10999-3",
+      "display": "7-11 days (half or more of the days)",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "7-11 Tage (mehr als die Hälfte der Tage)"
+        }
+      ]
+    },
+    {
+      "code": "LA11000-9",
+      "display": "12-14 days (nearly every day)",
+      "designation": [
+        {
+          "language": "de-DE",
+          "value": "12-14 Tage (fast jeden Tag)"
+        }
+      ]
+    }
+  ]
+}
