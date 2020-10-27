@@ -165,42 +165,12 @@
       ]
     },
     {
-      "code": "LA6568-5",
-      "display": "Not at all",
-      "designation": [
-        {
-          "language": "de-DE",
-          "value": "Überhaupt nicht"
-        }
-      ]
-    },
-    {
-      "code": "LA6569-3",
-      "display": "Several days",
-      "designation": [
-        {
-          "language": "de-DE",
-          "value": "Mehrere Tage"
-        }
-      ]
-    },
-    {
       "code": "LA18938-3",
       "display": "More days than not",
       "designation": [
         {
           "language": "de-DE",
           "value": "Mehr Tage als gar nicht"
-        }
-      ]
-    },
-    {
-      "code": "LA6571-9",
-      "display": "Nearly every day",
-      "designation": [
-        {
-          "language": "de-DE",
-          "value": "Fast jeden Tag"
         }
       ]
     },
