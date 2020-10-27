@@ -1,5 +1,6 @@
 {
   "resourceType": "ValueSet",
+  "language": "de-DE",
   "url": "http://loinc.org/vs/LL358-3",
   "identifier": [ {
     "system": "urn:ietf:rfc:3986",
@@ -13,40 +14,16 @@
       "system": "http://loinc.org",
       "concept": [ {
         "code": "LA6568-5",
-        "display": "Not at all",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Überhaupt nicht"
-          }
-        ]
+        "display": "Überhaupt nicht"
       }, {
         "code": "LA6569-3",
-        "display": "Several days",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "An einzelnen Tagen"
-          }
-        ]
+        "display": "An einzelnen Tagen"
       }, {
         "code": "LA6570-1",
-        "display": "More than half the days",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "An mehr als der Hälfte der Tage"
-          }
-        ]
+        "display": "An mehr als der Hälfte der Tage"
       }, {
         "code": "LA6571-9",
-        "display": "Nearly every day",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Beinahe jeden Tag"
-          }
-        ]
+        "display": "Beinahe jeden Tag"
       } ]
     } ]
   }

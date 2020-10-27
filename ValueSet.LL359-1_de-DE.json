@@ -1,5 +1,6 @@
 {
   "resourceType": "ValueSet",
+  "language": "de-DE",
   "url": "http://loinc.org/vs/LL359-1",
   "identifier": [ {
     "system": "urn:ietf:rfc:3986",
@@ -13,40 +14,16 @@
       "system": "http://loinc.org",
       "concept": [ {
         "code": "LA6572-7",
-        "display": "Not difficult at all",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Überhaupt nicht erschwert"
-          }
-        ]
+        "display": "Überhaupt nicht erschwert"
       }, {
         "code": "LA6573-5",
-        "display": "Somewhat difficult",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Etwas erschwert"
-          }
-        ]
+        "display": "Etwas erschwert"
       }, {
         "code": "LA6575-0",
-        "display": "Very difficult",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Relativ stark erschwert"
-          }
-        ]
+        "display": "Relativ stark erschwert"
       }, {
         "code": "LA6574-3",
-        "display": "Extremely difficult",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Sehr stark erschwert"
-          }
-        ]
+        "display": "Sehr stark erschwert"
       } ]
     } ]
   }

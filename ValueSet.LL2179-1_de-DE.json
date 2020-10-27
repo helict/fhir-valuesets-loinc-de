@@ -1,5 +1,6 @@
 {
   "resourceType": "ValueSet",
+  "language": "de-DE",
   "url": "http://loinc.org/vs/LL2179-1",
   "identifier": [ {
     "system": "urn:ietf:rfc:3986",
@@ -13,49 +14,19 @@
       "system": "http://loinc.org",
       "concept": [ {
         "code": "LA6270-8",
-        "display": "Never",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "Niemals"
-          }
-        ]
+        "display": "Niemals"
       }, {
         "code": "LA18926-8",
-        "display": "Monthly or less",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "1mal im Monat oder seltener"
-          }
-        ]
+        "display": "1mal im Monat oder seltener"
       }, {
         "code": "LA18927-6",
-        "display": "2-4 times a month",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "2 bis 4mal im Monat"
-          }
-        ]
+        "display": "2 bis 4mal im Monat"
       }, {
         "code": "LA18928-4",
-        "display": "2-3 times a week",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "2 bis 3mal pro Woche"
-          }
-        ]
+        "display": "2 bis 3mal pro Woche"
       }, {
         "code": "LA18929-2",
-        "display": "4 or more times a week",
-        "designation": [
-          {
-            "language": "de-DE",
-            "value": "4mal oder mehrmals pro Woche"
-          }
-        ]
+        "display": "4mal oder mehrmals pro Woche"
       } ]
     } ]
   }
