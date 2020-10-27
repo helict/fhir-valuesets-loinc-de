@@ -20,5 +20,5 @@ Translations for the following LOINC answer lists are provided:
 
 [LOINC LL654-5](https://loinc.org/LL654-5) ([FHIR](https://fhir.loinc.org/ValueSet/LL654-5))
 
-For more information take a look at the [wiki page](/helict/fhir-valuesets-loinc-de/wiki).
+For more information take a look at the [wiki page](//github.com/helict/fhir-valuesets-loinc-de/wiki).
 
